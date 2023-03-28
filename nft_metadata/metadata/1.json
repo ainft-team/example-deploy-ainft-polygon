@@ -1,0 +1,21 @@
+{
+  "name": "Azuki#5281#1",
+  "description": "Description",
+  "attributes": [
+    {
+      "trait_type": "Original attributes 1",
+      "value": "Original values 1"
+    },
+    {
+      "trait_type": "Original attributes 2",
+      "value": "Original values2 "
+    }
+  ],
+  "namespaces": {
+    "ainetwork": {
+      "ain_tx": "https://testnet-insight.ainetwork.ai/transactions/0xb0e01845917a9b150130ef5148a0aa18727201a05eec7e8dcf587430138868c8",
+      "old_metadata": "ipfs://Qm...v1",
+      "updated_at": "1679979892345"
+    }
+  }
+}
